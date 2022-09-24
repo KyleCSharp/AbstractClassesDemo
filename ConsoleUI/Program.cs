@@ -53,10 +53,10 @@ namespace ConsoleUI
             
             
             //-DONEAdd the 4 vehicles to the list
+            Vehicles.Add(Car);
             Vehicles.Add(Suv);
             Vehicles.Add(Truck);
             Vehicles.Add(motorcycle);
-            Vehicles.Add(Car);
             
             //_DONE Using a foreach loop iterate over each of the properties
            
