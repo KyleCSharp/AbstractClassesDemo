@@ -58,7 +58,7 @@ namespace ConsoleUI
             Vehicles.Add(motorcycle);
             Vehicles.Add(Car);
             
-            //_DONEUsing a foreach loop iterate over each of the properties
+            //_DONE Using a foreach loop iterate over each of the properties
            
             
             foreach (var v in Vehicles)
@@ -72,6 +72,7 @@ namespace ConsoleUI
             }
 
             //-DONE Call each of the drive methods for one car and one motorcycle
+            //^^^^^did for all in the foreach loop
 
             #endregion
             Console.ReadLine();
